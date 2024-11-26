@@ -3,7 +3,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO bitfactory-software/virtual_void
     REF "${VERSION}"
-    SHA512 41f26ced4b875278888b0d574edd422c0c22b866286df6b35273910543484aaf4f9f47772d187c59129695d5f4eb82ca8d861a4ccb3203c76faa1e93e6ca90f2
+    SHA512  3dfa4caab6ed964f0db9dc3ed00610d6ca3cf9ca3021e4bb4dd41b0217a7bda82784a204ea11ff6075ee52a5f61d4ccdcd149bbeb7c7e55bcecfd9986fde01ca
 )
 
 
